@@ -13,8 +13,6 @@ public class Main {
 
         System.out.println(nombre + " " + edad);
 
-
-        ///mejora
         System.out.println("Hola mundo");
         }
     }
